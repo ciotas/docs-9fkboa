@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-p2ye43.leogaming.cfd/sitemap.xml
